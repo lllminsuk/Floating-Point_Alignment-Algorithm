@@ -12,3 +12,5 @@ Insertion Sort, Bublle Sort, Selection Sort 와 같은 Sort 알고리즘을 사�
 
 # Floating Point 변환
 ![image](https://user-images.githubusercontent.com/71426612/193422297-a0d8967c-ff0c-4eb9-b38e-270013a3c27e.png)
+
+[Project_결과보고서_2017202076_이민석.pdf](https://github.com/lllminsuk/Floating-Point_Alignment-Algorithm/files/9690911/Project_._2017202076_.pdf)
